@@ -1,0 +1,36 @@
+body{
+	font-family: 'Marvel', sans-serif;
+	text-align: center;
+	font-size: 22px;
+
+	}
+ul{
+	list-style-type: malayalam;
+	list-style-position: inside;
+	text-align: left;
+	padding-left: 25%;
+	padding-right: 25%;
+	}
+li{
+	font-size: 22px;
+}
+#fav{
+    transition: 750ms color 2.5s;
+    color: #228B22;
+}
+#notFav{
+    transition: 750ms color 3s;
+    color: #D2691E;
+}
+.fav{
+    transition: 1.5s color 2.5s;
+    color: #228B22;
+}
+.notFav{
+    transition: 1.5s color 3s;
+    color: #D2691E;
+}
+.hide{
+	transition: 1.5s transform 3s;
+	transform: scale(0);
+}

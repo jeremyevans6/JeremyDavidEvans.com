@@ -1,0 +1,80 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+body{
+	font-family: "Marvel", serif;
+	font-size: 12px;
+	height: 100%;
+	width: 100%;
+}
+
+.fullheight{height:100%;}
+.fullwidth{width:100%;}
+
+.treeContainer{
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	text-align: center;
+
+/* This is a fallback transition: a little choppier 
+images must be hidden to work
+
+	background-image: url("../img/1.svg");
+	background-repeat: no-repeat;
+    background-position: center;
+
+    animation: evolution 6s 1s 1 forwards;
+*/
+}
+
+
+
+
+
+
+
+
+
+
+
+.treeContainer img{
+	opacity: 0;
+	transition: 2s opacity ease-out;
+	position: relative;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+
+.loaded .first{
+	animation: fadein 2s 0s 1 forwards,
+		spinDownOut 2s 1 forwards,
+		spin 2s 1s 5 forwards;
+	position: absolute;
+    left: 50%;
+    height: 50%;
+    z-index: 999;
+}
+.loaded .second{
+	position: absolute;
+    left: 50%;
+	animation: fadein 2s 3s 1 forwards;
+}
+.loaded .third{
+	position: absolute;
+    left: 50%;
+	animation: fadein 2s 5s 1 forwards;
+}
+.loaded .fourth{
+	position: absolute;
+    left: 50%;
+	animation: fadein 2s 7s 1 forwards;
+}
+.loaded .fifth{
+	position: absolute;
+    left: 50%;
+	animation: fadein 2s 9s 1 forwards;
+}

@@ -1,0 +1,1197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"first",
+				"firstImgMargin	js.js"
+			],
+			[
+				"fir",
+				"firstImgWidth	js.js"
+			],
+			[
+				"rot",
+				"rotate()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sc",
+				"scale3D()"
+			],
+			[
+				"pu",
+				"public_html"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"rotate",
+				"rotate()"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"scale",
+				"scale()"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"www",
+				"www-data"
+			],
+			[
+				"imap",
+				"php5-imap"
+			],
+			[
+				"php5-",
+				"php5-gd"
+			],
+			[
+				"php5-memcach",
+				"php5-memcached"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"w",
+				"whereswalden"
+			],
+			[
+				"CBA1",
+				"CBA1_radar	main.js"
+			],
+			[
+				"sli",
+				"slideIn"
+			],
+			[
+				"slide",
+				"slideInTop"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"Kultur",
+				"kulturedkitsch"
+			],
+			[
+				"add",
+				"addClass( value )	jquery-2.1.4.js"
+			],
+			[
+				"toggle",
+				"toggleClass( value, stateVal )	jquery-2.1.4.js"
+			],
+			[
+				"FF",
+				"FF0000"
+			],
+			[
+				"skew",
+				"skewX()"
+			],
+			[
+				"sca",
+				"scale()"
+			],
+			[
+				"ro",
+				"rotateX()"
+			],
+			[
+				"trans",
+				"translate()"
+			],
+			[
+				"ease-out",
+				"ease-out"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"VPW",
+				"vpw	main.js"
+			],
+			[
+				"fit",
+				"firstAnnot"
+			],
+			[
+				"se",
+				"seeMeDance"
+			],
+			[
+				"get",
+				"getPlayer"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"sep",
+				"sephira"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"bak",
+				"backgroundColor"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"div",
+				"scrollDiv"
+			],
+			[
+				"Co",
+				"Communication"
+			],
+			[
+				"We",
+				"Web-Design"
+			],
+			[
+				"W",
+				"Web-Design"
+			],
+			[
+				"S",
+				"Self-Sufficiency"
+			],
+			[
+				"tr",
+				"treeOfLife"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 771,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/css.css",
+			"settings":
+			{
+				"buffer_size": 1207,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/animations.css",
+			"settings":
+			{
+				"buffer_size": 686,
+				"line_ending": "Windows",
+				"name": "@keyframes NAME-YOUR-ANIMATION {"
+			}
+		},
+		{
+			"file": "js.js",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 295.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/node/BBB/var/www/html/templates/protostar/js/template.js",
+		"/C/wamp/www/jeremyevans.us/scientificearth/reset.css",
+		"/C/wamp/www/jeremyevans.us/scientificearth/LandingPage.css",
+		"/C/wamp/www/jeremyevans.us/zapier/index.html",
+		"/C/wamp/www/kulturedkitsch.info/storefront/view/default/javascript/custom.js",
+		"/C/wamp/www/kulturedkitsch.info/storefront/view/default/template/common/head.tpl",
+		"/C/wamp/www/kulturedkitsch.info/storefront/view/default/stylesheet/style.css",
+		"/C/wamp/www/artistasworld.com/public_html/wp-content/themes/twentyfifteen/header.php",
+		"/C/wamp/www/kulturedkitsch.info/storefront/index.php",
+		"/C/wamp/www/kulturedkitsch.info/system/.htaccess",
+		"/C/wamp/www/kulturedkitsch.info/system/config.php",
+		"/C/wamp/www/artistasworld.com/public_html/wp-content/themes/twentyfifteen/functions.php",
+		"/C/wamp/www/artistasworld.com/public_html/wp-content/themes/twentyfifteen/index.php",
+		"/C/wamp/www/kulturedkitsch.info/vtigercrm/modules/Google/connectors/Oauth.php",
+		"/C/wamp/www/kulturedkitsch.info/vtigercrm/modules/Google/connectors/Config.php",
+		"/C/wamp/www/kulturedkitsch.info/vtigercrm/modules/Google/connectors/Calendar.php",
+		"/C/wamp/www/kulturedkitsch.info/vtigercrm/modules/Google/connectors/Vtiger.php",
+		"/C/wamp/www/kulturedkitsch.info/vtigercrm/modules/Google/connectors/Contacts.php",
+		"/C/wamp/www/kulturedkitsch.info/vtigercrm/modules/WSAPP/api/ws/Put.php",
+		"/C/wamp/www/kulturedkitsch.info/vtigercrm/modules/Google/connectors/Oauth2.php",
+		"/C/Users/Jeremy/Desktop/Scrivener 1.8.0 + Keygen/Scrivener 1.8.0 + Keygen/Instructions.txt",
+		"/C/Users/Jeremy/Desktop/Scrivener 1.8.0 + Keygen/Scrivener 1.8.0 + Keygen/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Jeremy/Downloads/Internet Temp/00-ioncube.ini",
+		"/C/SEOtoaster/.htaccess",
+		"/C/WPsites/Eartique/.htaccess",
+		"/C/node/donateautism.org/var/www/donateautism/administrator/components/com_easysocial/includes/stream/dependencies.php",
+		"/C/node/donateautism.org/var/www/donateautism/htaccess.txt",
+		"/C/node/donateautism.org/var/www/donateautism/.htaccess",
+		"/C/node/BBB/BBBServer.bash",
+		"/C/Users/Jeremy/Desktop/index.php",
+		"/C/Users/Jeremy/Desktop/mod_wwbanner.v.0.0.1/assets/js/script.js",
+		"/C/Users/Jeremy/Desktop/mod_wwbanner.v.0.0.1/mod_wwbanner.php",
+		"/C/Users/Jeremy/Desktop/mod_wwbanner.v.0.0.1/assets/js/index.html",
+		"/C/Users/Jeremy/Desktop/mod_wwbanner.v.0.0.1/assets/index.html",
+		"/C/Users/Jeremy/Desktop/mod_wwbanner.v.0.0.1/mod_wwbanner.xml",
+		"/C/Users/Jeremy/Desktop/labōrisAmor/credit/credit2015.txt",
+		"/C/node/whereswalden.network/var/www/whereswalden/.htaccess",
+		"/C/node/BBB/var/www/html/.htaccess",
+		"/C/Users/Jeremy/Desktop/laborAmōris/local bbb/BBB/newServer.bash",
+		"/C/node/BBB/var/www/html/templates/protostar/index.php",
+		"/C/node/BBB/var/www/html/templates/protostar/protostar/index.php",
+		"/C/Users/Jeremy/Desktop/Amazon.com - Order 111-2556460-3826648_files/websiteGlobalCSS-websiteGlobal-10346._V1_.css",
+		"/C/wamp/www/artistas/public_html/_compareTemp/TMP4n0ny9.htaccess",
+		"/C/wamp/www/artistasworld.com/public_html/wp-content/themes/twentyfifteen/style.css",
+		"/C/wamp/www/artistasworld.com/public_html/wp-content/themes/twentyfifteen/footer.php",
+		"/C/wamp/www/artistas/public_html/.htaccess",
+		"/C/wamp/www/artistas/public_html/css/jquery.qtip.css",
+		"/C/wamp/www/artistas/public_html/js/vendor/jquery.qtip.js",
+		"/C/wamp/www/artistas/public_html/js/vendor/imagesloaded.pkg.min.js",
+		"/C/wamp/www/artistas/public_html/css/warped.css",
+		"/C/wamp/www/artistas/public_html/css/intro.css",
+		"/C/wamp/www/artistas/public_html/crossdomain.xml",
+		"/C/wamp/www/artistas/public_html/flare.csv",
+		"/C/wamp/www/artistas/public_html/index.html",
+		"/C/wamp/www/artistas/public_html/js/vendor/jquery-2.1.4.js",
+		"/C/node/artistas.xyz/public_html/css/normalize.css",
+		"/C/node/artistas.xyz/public_html/js/plugins.js",
+		"/C/node/artistas.xyz/public_html/index.html",
+		"/C/node/hallyu/hallyu.link/newServer.bash",
+		"/C/node/AlexisGreenberger/newServer.bash",
+		"/C/node/BBB/newServer.bash",
+		"/C/node/BetweenVisits/newServer",
+		"/C/node/hallyu.link/newServer.bash",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/css/style.css",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/js/markerclusterer.js",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/js/index.html",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/tmpl/default.php",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/tmpl/index.html",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/helper.php",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/index.html",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/mod_geommunity3es.xml",
+		"/C/node/BBB/var/www/html/modules/mod_geommunity3es/mod_geommunity3es.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/controller.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/eventinfowindow/tmpl/default.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/eventinfowindow/tmpl/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/eventinfowindow/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/eventinfowindow/view.raw.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/photoinfowindow/view.raw.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/geommunity3es.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/router.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/controllers/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/helpers/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/helpers/geommunity2es.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/helpers/geommunity3es.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/easybloginfowindow/tmpl/default.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/easybloginfowindow/tmpl/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/easybloginfowindow/view.raw.php",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/easybloginfowindow/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/views/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/models/fields/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/models/forms/index.html",
+		"/C/node/BBB/var/www/html/components/com_geommunity3es/models/index.html",
+		"/C/node/BBB/var/www/html/htaccess.txt",
+		"/C/Users/Jeremy/Desktop/Amazon.com - Order 111-2556460-3826648.html",
+		"/C/Users/Jeremy/Desktop/GraphicDesign/BBB/scroll5.svg",
+		"/C/Users/Jeremy/Downloads/Internet Temp/UNZIP_FIRST_addfullajax_2015.04.05/README.TXT",
+		"/C/Users/Jeremy/Downloads/Internet Temp/UNZIP_FIRST_addfullajax_2015.04.05/README.html",
+		"/C/node/BBB/var/www/html/templates/shekhina/index.php",
+		"/C/node/BBB/var/www/html/templates/shekhina/css/template.less",
+		"/C/node/BBB/var/www/html/media/jui/less/wells.less",
+		"/C/node/BBB/var/www/html/templates/shekhina/js/main.js",
+		"/C/node/BBB/var/www/html/templates/shekhina/html/index.html",
+		"/C/node/BBB/var/www/html/templates/shekhina/html/new.php",
+		"/C/node/BBB/var/www/html/templates/wanderers/framework.php",
+		"/C/node/BBB/var/www/html/templates/wanderers/templateDetails.xml",
+		"/C/node/BBB/var/www/html/templates/wanderers/component.php",
+		"/C/node/BBB/var/www/html/templates/wanderers/script.php",
+		"/C/node/BBB/var/www/html/templates/wanderers/index.php",
+		"/C/node/BBB/var/www/html/templates/wanderers/scripts/theme.js",
+		"/C/node/BBB/var/www/html/templates/wanderers/less/responsive.less",
+		"/C/node/BBB/var/www/html/templates/wanderers/less/theme.less",
+		"/C/node/BBB/var/www/html/templates/wanderers/less/components.less",
+		"/C/node/BBB/var/www/html/templates/wanderers/less/easyblog.less",
+		"/C/node/BBB/var/www/html/templates/wanderers/less/easydiscuss.less",
+		"/C/node/BBB/var/www/html/templates/wanderers/less/easysocial.less",
+		"/C/node/BBB/var/www/html/templates/wanderers/css/theme.css",
+		"/C/node/BBB/var/www/html/templates/wanderers/html/com_content/article/default.php",
+		"/C/node/BBB/var/www/html/templates/wanderers/html/index.html",
+		"/C/node/BBB/var/www/html/templates/wanderers/scripts/jss.js",
+		"/C/node/BBB/var/www/html/templates/protostar/templateDetails.xml",
+		"/C/node/BBB/var/www/html/templates/protostar/css/template.css",
+		"/C/node/BBB/var/www/html/templates/protostar/less/variables.less",
+		"/C/node/BBB/var/www/html/templates/protostar/less/template.less",
+		"/C/node/BBB/var/www/html/templates/protostar/less/icomoon.less",
+		"/C/node/BBB/var/www/html/templates/protostar/js/application.js",
+		"/C/node/BBB/var/www/html/templates/protostar/js/classes.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"background",
+			"welcome",
+			"qwlcome",
+			"welcome",
+			"fadeinphoto",
+			"opacity",
+			"unzip",
+			"find",
+			"php.info",
+			"chmod",
+			".bread",
+			".nav-pills",
+			".nav.nav-pills",
+			".nav .menu .nav-pills",
+			"brand",
+			".well",
+			".nav > li > a",
+			".nav > li",
+			"#CCO",
+			".nav > li > a:hover",
+			".nav > li > a:hover, .nav > li > a:focus",
+			".modal-footer",
+			"brand",
+			"thumbna",
+			"color",
+			".nav-pills",
+			"body",
+			".header",
+			".header-inner",
+			"brand",
+			"body",
+			".container",
+			".header",
+			"j",
+			"jq",
+			"jQuer",
+			"span",
+			"container",
+			"container-",
+			"container-f",
+			"container-fl",
+			"container-fluid",
+			"fluidContainer",
+			"container-fluid",
+			".container",
+			".container-fluid",
+			".brand",
+			"body.s",
+			"body .site",
+			"header-",
+			"header",
+			"header-inn",
+			".header-inner",
+			"brand",
+			"$span",
+			"$spa",
+			"$span",
+			"span9",
+			".container",
+			"body.site",
+			"base",
+			"read more about",
+			"assest",
+			"triangle1",
+			"square1",
+			"slide",
+			"png",
+			"src",
+			"        <img class=\"\" src=\"img/MyAutismTeamStats.png\"/>\n",
+			"iframe",
+			"transition",
+			"mutabl",
+			"	",
+			"<a href",
+			".tooltipable",
+			"a",
+			"ul",
+			"spiral1",
+			"Price Range",
+			"tooltipable",
+			"h5",
+			"\">&#x2713;</td>",
+			"\">X</td>",
+			"<td></td>",
+			"Excll",
+			"</span>ffiliates  -- <span",
+			"class=\"fixed donor fourth\"><span class=\"D\">D</span>:",
+			"class=\"fixed community third\"><span class=\"C\">C</span>:",
+			"class=\"fixed beneficiaries second\"><span class=\"B\">B</span>:",
+			"class=\"fixed affiliates first\"><span class=\"A\">A</span>:",
+			".site-description",
+			";\n",
+			"THIS",
+			"<a href=\"#\"",
+			"<a href=\"#\">D</a>",
+			"<a href=\"#\">C</a>",
+			"<a href=\"#\">B</a>",
+			"<a href=\"#\">A</a>",
+			"<a href=\"#\"></a>",
+			"D",
+			"C",
+			"B",
+			"A",
+			"delay",
+			"bloo",
+			".mutable *",
+			"2px",
+			"list-st",
+			"moni",
+			"mone",
+			"4th",
+			"3rd",
+			"2nd",
+			"1st",
+			"community",
+			"affilia",
+			"impress",
+			"debugger",
+			"drGr",
+			"dr",
+			"hover",
+			".json",
+			"body",
+			"        \n",
+			"<link rel=\"stylesheet\" href=\"css/warped.css\">",
+			"ease",
+			"transition",
+			"delay"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"rainbowAnimation",
+			"color",
+			"h2",
+			"triangle",
+			"square",
+			",",
+			"<a target=\"_blank\" href",
+			"li",
+			"$",
+			"li",
+			"\">&#x2714;</td>",
+			"\">&#x2713;</td>",
+			"<td class=\"tooltipableCell\" title=\"N/A\"></td>",
+			"</span><em>ffiliates  --  </em><span",
+			"class=\"fixed donor fourth\"><span class=\"D\">D:</span>",
+			"class=\"fixed community third\"><span class=\"C\">C:</span>",
+			"class=\"fixed beneficiaries second\"><span class=\"B\">B:</span>",
+			"class=\"fixed affiliates first\"><span class=\"A\">A:</span>",
+			"<a href=\"#trust\"",
+			"<a href=\"#community\"",
+			"<a href=\"#videos\"",
+			"<a href=\"#events\"",
+			"<a href=\"#offers\"",
+			"<a href=\"#forum\"",
+			"<a href=\"#ads\"",
+			"<a href=\"#social\"",
+			"<a href=\"#directories\"",
+			"<a href=\"#directory\"",
+			"<a href=\"#blog\"",
+			"<a href=\"#email\"",
+			"<a href=\"#website\"",
+			"<a href=\"#\" class=\"donor\">D</a>",
+			"<a href=\"#\" class=\"community\">C</a>",
+			"<a href=\"#\" class=\"beneficiaries\">B</a>",
+			"<a href=\"#\" class=\"affiliates\">A</a>",
+			"<a href=\"#\">D</a>",
+			"<a href=\"#\"></a>",
+			"<a href=\"#\">D</a>",
+			"<a href=\"#\">C</a>",
+			"<a href=\"#\">B</a>",
+			"<a href=\"#\">A</a>",
+			"<a href=\"\">A</a>",
+			"<a href=\"#\">A</a>",
+			"1px",
+			"fourth",
+			"third",
+			"second",
+			"first",
+			"betterbetterbetter",
+			"betterbetterbetter.me",
+			"\"hide\": 1000",
+			"data-toggle=\"tooltip\" data-html=\"true\"",
+			"data-delay='{ \"show\": 500, \"hide\": 1500 }'",
+			"data-delay='{ \"show\": 500, \"hide\": 1500 }",
+			"<a href=\"#content\"",
+			"background-color",
+			"",
+			"all .2s ease-out",
+			"toggleClass(\"hidde\").toggleClass(\"showwe\")",
+			"toggleClass(\"showwe\")",
+			"toggleClass",
+			"hidde",
+			"",
+			"addClass(\"hidden\"",
+			"removeClass(\"hidden\"",
+			"all",
+			"span",
+			"all .5s",
+			"font-size .5s, background-color .5s, color .5s, translation .5s;",
+			"font-size .5s, background-color .5s, color .5s;",
+			"font-size .3s",
+			": background-color 3s",
+			"background-color 3s",
+			"font-size .5s, background-color .5s",
+			"font-size .5s background-color .5s",
+			"font-size background-color",
+			"all .5s;",
+			"",
+			"3s;",
+			".3s;",
+			"{\n\n",
+			";\n",
+			"-90",
+			"background-color",
+			"                    #keter.img-circle.sephira(data-toggle=\"tooltip\", data-placement=\"bottom\",  title=\"This is destined to be a 30s game designed to make our common humanity more salient.\")",
+			"                a(href=\"#\")\n",
+			"",
+			"<!-- jdoc*...*-->",
+			"<!-- jdoc",
+			"//<jdoc",
+			"            href: 'http://betterbetterbetter.org/',\n",
+			"'<li/>'",
+			"        'class': 'navlinks',",
+			"</li>",
+			"style=\"\"",
+			"class=\"img-circle sephira\"",
+			"\"treeOfLife\">",
+			"<td class=\"treeOfLife\">",
+			" </td>",
+			" <td>",
+			" <th>",
+			"<div class=\"row vertical-align ",
+			"<div class=\"row vertical-align",
+			"column flex-height\">",
+			"			<div class=\"row clearfix\">\n",
+			"<img alt=\"100x100\" src=\"http://dummyimage.com/100/ff7dff/0011ff.jpg&text=Sephirot\" class=\"img-circle\" style=\"max-width:100%; max-height:100%\" />",
+			"<img alt=\"100x100\" src=\"http://dummyimage.com/100/ff7dff/0011ff.jpg&text=Sephirot\" class=\"img-circle\" style=\"width: 75%\" />",
+			"<img alt=\"140x140\" src=\"http://lorempixel.com/140/140/\" class=\"img-circle\" style=\"width: 75%\" />",
+			"<div class=\"circle\"> </div>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								698,
+								698
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/css.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/animations.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "@keyframes NAME-YOUR-ANIMATION {",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "js.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1291,
+								1291
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sciEarth_landing_frontend.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css\\intro.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
